@@ -1,1 +1,1 @@
-# ubuntu-20-04-vm
+# Ubuntu Server 20.04 VM. Quick Start
